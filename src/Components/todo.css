@@ -1,0 +1,47 @@
+.todo {
+    border-style: solid;
+    padding: 10px;
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 43%;
+    width: 18vw;
+
+}
+.boxsize{
+    width: 5vw;
+    margin-left: 5px;
+}
+.check{
+    margin-top: 5px;
+    margin-left: -180px;
+    display: flex;
+    align-items: left;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.select{
+    border-style: solid;
+    padding: 10px;
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 43%;
+    width: 19.4vw;
+}
+.input{
+    width: 18vw;
+}
+.text{
+    width: 100px;
+}
+.blocks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

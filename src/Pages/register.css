@@ -1,0 +1,25 @@
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 60px;
+}
+
+.form {
+    border-style: solid;
+    padding: 10px;
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 43%;
+    width: 15vw;
+}
+input{
+width: 14vw;
+}
+button{
+    margin-left: 75px;
+    margin-top: 5px;
+}

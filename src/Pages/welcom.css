@@ -1,0 +1,17 @@
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5%;
+    text-decoration: none;
+}
+.logout{
+    display: flex;
+    margin-left: 80vw;
+    margin-top: 10px;
+    height: 30px;
+    width: 75px;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
